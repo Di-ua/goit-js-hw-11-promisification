@@ -4,9 +4,12 @@ body {
 }
 body {
  background: #0F3854;
- background: radial-gradient(ellipse at center, #0A2E38 0%, #000000 70%);
+ background: radial-gradient(ellipse at center, #0A2E38 60%, #000000 100%);
  background-size: 100%;
 }
 h1 {
   color: aquamarine;
+}
+li {
+  color: blanchedalmond;
 }
